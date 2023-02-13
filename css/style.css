@@ -1,0 +1,24 @@
+:root{
+    --dark-blue-700:rgb(0,39,78);
+    --dark-blue-400:rgb(0,79,156);
+    --dark-blue-300:rgb(9,127,201);
+}
+
+header{
+    background-color: var(--dark-blue-400);
+}
+
+.container-row{
+    background: var(--dark-blue-400);
+}
+
+
+
+section{
+    background: linear-gradient(to right, var(--dark-blue-300), var(--dark-blue-700));
+}
+
+footer{
+    background: var(--dark-blue-400);
+}
+
